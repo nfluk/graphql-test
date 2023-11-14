@@ -1,0 +1,14 @@
+{
+  "name": "graphql-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nfluk/graphql-test.git",
+  "author": "nfluk",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.9.5",
+    "graphql": "^16.8.1",
+    "lodash": "^4.17.21"
+  }
+}
